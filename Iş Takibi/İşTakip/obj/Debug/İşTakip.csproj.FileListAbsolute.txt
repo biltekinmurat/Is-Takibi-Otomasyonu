@@ -1,0 +1,204 @@
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\İşTakip.exe.config
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\İşTakip.exe
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\İşTakip.pdb
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.csproj.AssemblyReference.cache
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.Form1.resources
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.Properties.Resources.resources
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.csproj.GenerateResource.cache
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.exe.licenses
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.csproj.CoreCompileInputs.cache
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.csproj.Up2Date
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.exe
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.pdb
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.Formlar.FrmDepartmanlar.resources
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\EntityFramework.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\EntityFramework.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.Formlar.FrmPersoneller.resources
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.Formlar.FrmPersonelIstatistik.resources
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.Formlar.FrmGörevListesi.resources
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraCharts.v23.2.UI.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.DataAccess.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Images.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.CodeParser.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraCharts.v23.2.UI.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.DataAccess.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.Formlar.FrmGorev.resources
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.Formlar.FrmGörevDetay.resources
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.Formlar.FrmAnaForm.resources
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.Formlar.FrmAktifCagrilar.resources
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.PersonelGörevFormlari.FrmAktifGörevler.resources
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.PersonelGörevFormlari.FrmPersonelFormu.resources
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.ExpressApp.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Persistent.Base.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraReports.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.ExpressApp.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Persistent.Base.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraReports.v23.2.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.PersonelGörevFormlari.FrmPasifGörevler.resources
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.Login.FrmLogin.resources
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.PersonelGörevFormlari.FrmCagriListesi.resources
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.PersonelGörevFormlari.FrmCagriDetayGirisi.resources
+C:\Users\bilte\Desktop\C#\İşTakip\obj\Debug\İşTakip.Formlar.FrmCagriAtama.resources
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Map.v23.2.Core.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraMap.v23.2.dll
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.Map.v23.2.Core.xml
+C:\Users\bilte\Desktop\C#\İşTakip\bin\Debug\DevExpress.XtraMap.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\İşTakip.exe.config
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\İşTakip.exe
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\İşTakip.pdb
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.DataAccess.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.ExpressApp.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Map.v23.2.Core.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Persistent.Base.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraCharts.v23.2.UI.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraMap.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraReports.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\EntityFramework.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.CodeParser.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Images.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.DataAccess.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.ExpressApp.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Map.v23.2.Core.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Persistent.Base.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraCharts.v23.2.UI.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraMap.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraReports.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\EntityFramework.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.csproj.AssemblyReference.cache
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Form1.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Formlar.FrmAktifCagrilar.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Formlar.FrmAnaForm.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Formlar.FrmCagriAtama.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Formlar.FrmDepartmanlar.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Formlar.FrmGorev.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Formlar.FrmGörevDetay.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Formlar.FrmGörevListesi.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Formlar.FrmPersonelIstatistik.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Formlar.FrmPersoneller.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Login.FrmLogin.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.PersonelGörevFormlari.FrmAktifGörevler.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.PersonelGörevFormlari.FrmCagriDetayGirisi.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.PersonelGörevFormlari.FrmCagriListesi.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.PersonelGörevFormlari.FrmPasifGörevler.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.PersonelGörevFormlari.FrmPersonelFormu.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Properties.Resources.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.csproj.GenerateResource.cache
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.exe.licenses
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.csproj.CoreCompileInputs.cache
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.csproj.Up2Date
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.exe
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.pdb
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Formlar.FrmDepartmanEkle.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.Formlar.FrmPersonelEkle.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.FirmaFormlari.FrmFirmaLİstesi.resources
+C:\Users\bilte\Desktop\Iş Takibi\İşTakip\obj\Debug\İşTakip.FirmaFormlari.FrmFirmaEkle.resources

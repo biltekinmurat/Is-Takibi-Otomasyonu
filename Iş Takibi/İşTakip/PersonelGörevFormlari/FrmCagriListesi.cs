@@ -1,0 +1,50 @@
+﻿using İşTakip.Entity;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace İşTakip.PersonelGörevFormlari
+{
+    public partial class FrmCagriListesi : Form
+    {
+        public FrmCagriListesi()
+        {
+            InitializeComponent();
+        }
+        DbişTakipEntities db = new DbişTakipEntities();
+        public string mail2;
+        private void FrmCagriListesi_Load(object sender, EventArgs e)
+        {
+            var personId = db.TblPersonel.Where(x => x.Mail == mail2).Select(y => y.ID).FirstOrDefault();
+            gridControl1.DataSource = (from x in db.TblCagrilar
+                                       select new
+                                       {
+                                           x.ID,
+                                           x.TblFirmalar.Ad,
+                                           x.TblFirmalar.Mail,
+                                           x.TblFirmalar.Telefon,
+                                           x.Acıklama,
+                                           x.Durum,
+                                           x.CagriPersonel
+                                       }).Where(x => x.Durum == true && x.CagriPersonel==personId).ToList();
+            gridView1.Columns["Durum"].Visible = false;
+            gridView1.Columns["CagriPersonel"].Visible = false;
+
+        }
+
+        private void gridView1_DoubleClick(object sender, EventArgs e)
+        {
+            FrmCagriDetayGirisi fr = new FrmCagriDetayGirisi();
+
+            fr.id = int.Parse(gridView1.GetFocusedRowCellValue("ID").ToString());
+            fr.Show();
+
+        }
+    }
+}
